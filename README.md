@@ -1,5 +1,5 @@
-# experiment-design-software-testing-techniques
-Experiment design for software testing techinques. This is part of ISE, a compulsory subject for the MUITSS.
+# Experiment design for software testing techniques
+This deliverable 1 for ISE, a compulsory subject for the MUITSS.
 
 The definition of the experiment (Goal-Question-Metric model) is found in [definition.md](definition.md)
 
